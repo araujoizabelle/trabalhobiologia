@@ -125,7 +125,7 @@ input, select, textarea {
 
 		h2.major {
 			position: relative;
-			border-top: solid 5px #e7eae8;
+			border-top: solid 5px orange;
 			font-size: 1.65em;
 			text-align: center;
 			margin: 0 0 3em 0;
@@ -180,12 +180,12 @@ input, select, textarea {
 
 	hr {
 		border: 0;
-		border-top: solid 2px #E7EAE8;
+		border-top: solid 2px orange;
 		margin: 0 0 3em 0;
 	}
 
 	blockquote {
-		border-left: solid 5px #E7EAE8;
+		border-left: solid 5px orange;
 		padding: 1em 0 1em 1.5em;
 		font-style: italic;
 	}
@@ -209,7 +209,7 @@ input, select, textarea {
 		font-family: 'Open Sans Condensed', sans-serif;
 		font-weight: 700;
 		text-transform: uppercase;
-		color: #c1cac5;
+		color: orange;
 	}
 
 /* Container */
@@ -1792,7 +1792,7 @@ input, select, textarea {
 		font-weight: 700;
 		text-transform: uppercase;
 		text-decoration: none;
-		background: #b1ddab;
+		background: #8a2be2;
 		color: #fff;
 		border: 0;
 		line-height: 1em;
@@ -1814,7 +1814,7 @@ input, select, textarea {
 		input[type="reset"]:hover,
 		button:hover,
 		.button:hover {
-			background: #c1edbb;
+			background: orange;
 		}
 
 		input[type="button"]:active,
@@ -1822,7 +1822,7 @@ input, select, textarea {
 		input[type="reset"]:active,
 		button:active,
 		.button:active {
-			background: #a1cd9b;
+			background: #orange;
 		}
 
 		input[type="button"].alt,
@@ -1830,7 +1830,7 @@ input, select, textarea {
 		input[type="reset"].alt,
 		button.alt,
 		.button.alt {
-			background: #c1cac5;
+			background: orange;
 		}
 
 			input[type="button"].alt:hover,
@@ -1838,7 +1838,7 @@ input, select, textarea {
 			input[type="reset"].alt:hover,
 			button.alt:hover,
 			.button.alt:hover {
-				background: #ccd5d0;
+				background: #orange;
 			}
 
 			input[type="button"].alt:active,
@@ -1846,7 +1846,7 @@ input, select, textarea {
 			input[type="reset"].alt:active,
 			button.alt:active,
 			.button.alt:active {
-				background: #b1bab5;
+				background: #orange;
 			}
 
 		input[type="button"].large,
@@ -1885,7 +1885,7 @@ input, select, textarea {
 	}
 
 		ul.divided > li {
-			border-top: solid 2px #e7eae8;
+			border-top: solid 2px orange;
 			padding-top: 2.35em;
 			margin-top: 2.35em;
 			padding-left: 0;
@@ -1950,7 +1950,7 @@ input, select, textarea {
 				height: 48px;
 				border-radius: 6px;
 				outline: 0;
-				background: #c1cac5;
+				background: orange;
 				text-align: center;
 			}
 
@@ -2025,7 +2025,7 @@ input, select, textarea {
 					transition: background-color .2s ease-in-out;
 					display: block;
 					text-align: center;
-					background: #c1cac5;
+					background: orange;
 					border-radius: 100%;
 					width: 2.25em;
 					height: 2.25em;
@@ -2039,7 +2039,7 @@ input, select, textarea {
 			}
 
 				ul.special li:hover a:before {
-					background: #b9d2ce;
+					background: #8a2be2;
 				}
 
 /* Meta */
@@ -2081,7 +2081,7 @@ input, select, textarea {
 	}
 
 		ul.menu li {
-			border-left: solid 1px #E7EAE8;
+			border-left: solid 1px orange;
 			display: inline-block;
 			padding: 0 0 0 0.75em;
 			margin: 0 0 0 0.75em;
@@ -2113,7 +2113,7 @@ input, select, textarea {
 		display: block;
 		width: 100%;
 		border-radius: 8px;
-		border: solid 2px #E7EAE8;
+		border: solid 2px orange;
 	}
 
 		form input[type="text"]:focus,
@@ -2168,7 +2168,7 @@ input, select, textarea {
 		}
 
 			table.default tr {
-				border-top: solid 2px #E7EAE8;
+				border-top: solid 2px orange;
 			}
 
 				table.default tr:first-child {
@@ -2190,7 +2190,7 @@ input, select, textarea {
 			}
 
 			table.default thead {
-				background: #E7EAE8;
+				background: orange;
 				color: #fff;
 			}
 
@@ -2302,7 +2302,7 @@ input, select, textarea {
 		#header .logo {
 			position: relative;
 			text-align: center;
-			border-top: solid 5px #e7eae8;
+			border-top: solid 5px orange;
 			top: 0.65em;
 		}
 
@@ -2320,7 +2320,7 @@ input, select, textarea {
 
 			#header .logo p {
 				display: inline;
-				color: #C1CAC5;
+				color: orange;
 			}
 
 /* Nav */
@@ -2388,17 +2388,17 @@ input, select, textarea {
 			}
 
 			#nav li:hover a, #nav li:hover span {
-				background: #C1CAC5;
+				background: orange;
 				color: #fff;
 			}
 
 			#nav li.active a, #nav li.active span {
-				background: #C1CAC5;
+				background: orange;
 				color: #fff;
 			}
 
 			#nav li.current a {
-				background: #b1ddab;
+				background: #8a2be2;
 				color: #fff;
 			}
 
@@ -2526,8 +2526,8 @@ input, select, textarea {
 
 	#main {
 		background: #fff;
-		border-top: solid 5px #b1ddab;
-		border-bottom: solid 5px #c1cac5;
+		border-top: solid 5px #8a2be2;
+		border-bottom: solid 5px orange;
 		border-top-width: 35px;
 		border-bottom-width: 10px;
 		padding: 6em 0 6em 0;
@@ -2567,7 +2567,7 @@ input, select, textarea {
 
 	#copyright {
 		display: inline-block;
-		background: #e7eae8;
+		background: orange;
 		padding: 0.75em 2em 0.75em 2em;
 		border-radius: 8px;
 		color: #8b9790;
@@ -2583,7 +2583,7 @@ input, select, textarea {
 		}
 
 			#copyright .menu li {
-				border-color: #C1CAC5;
+				border-color: orange;
 				border-width: 2px;
 				line-height: 1em;
 			}
@@ -2721,7 +2721,7 @@ input, select, textarea {
 		/* Sidebar */
 
 			.sidebar {
-				border-top: solid 2px #e7eae8;
+				border-top: solid 2px orange;
 				padding-top: 50px;
 			}
 
@@ -2800,7 +2800,7 @@ input, select, textarea {
 						position: absolute;
 						left: 0;
 						top: 0;
-						background: #b1ddab;
+						background: #8a2be2;
 						width: 44px;
 						height: 44px;
 						content: '\f0c9';
@@ -3049,7 +3049,7 @@ input, select, textarea {
 		/* Sidebar */
 
 			.sidebar {
-				border-top: solid 2px #e7eae8;
+				border-top: solid 2px orange;
 				padding-top: 50px;
 				margin-top: 30px;
 			}
@@ -3089,12 +3089,46 @@ input, select, textarea {
 
 .modal-content{
 padding-top:2em!important;
-height:28em!important;
+height:25em!important;
 }
  /*alterações de estilo básico*/
- .link{
+ a{
 	 text-decoration: none!important;
+ }
+ a:hover{
+	 color:#8a2be2!important;
  }
  .link:hover{
 	 color:white;
+ }
+ h1{
+	 color:#8a2be2!important;
+ }
+ body, section, header{
+	 background-color: #282c34!important;
+ }
+ .modal-content{
+	 background-color: #282c34!important;
+ }
+ li{
+	 color:white!important;
+	 text-transform: uppercase;
+	 padding-top: 2em;
+ }
+ li p{
+	 padding-top: 2em;
+	 font-weight: 600;
+ }
+ span{
+
+	 color:#8a2be2!important;
+ }
+ h2 span {
+	  background-color: #282c34!important;
+ }
+ .feature h3{
+	 color:orange!important;
+ }
+ .feature p{
+	 color:white!important;
  }
