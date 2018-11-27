@@ -3082,3 +3082,19 @@ input, select, textarea {
 			}
 
 	}
+
+/*modificações iza*/
+/*modal*/
+
+
+.modal-content{
+padding-top:2em!important;
+height:28em!important;
+}
+ /*alterações de estilo básico*/
+ .link{
+	 text-decoration: none!important;
+ }
+ .link:hover{
+	 color:white;
+ }
